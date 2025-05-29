@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your-azure-storage-connection-string-here>",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
